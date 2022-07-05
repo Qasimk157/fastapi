@@ -1,0 +1,15 @@
+fastapi == 0.70.0
+pydantic
+uvicorn == 0.15.0
+motor == 2.5.1
+fastapi-pagination == 0.9.1
+fastapi-camelcase == 1.0.3
+dnspython ==2.1.0
+pymongo == 3.12.1
+python-decouple == 3.5
+jwcrypto ==1.0
+requests == 2.26.0
+requests-async == 0.6.2
+SQLAlchemy ==1.4.39
+text-to-speech == 1.5.3
+pyttsx == 3 2.90
